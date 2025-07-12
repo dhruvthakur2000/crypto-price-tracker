@@ -37,9 +37,9 @@ python -m unittest discover tests
 
 ## Built With
 
--Python 3.10+
--click
--requests
--unittest
--rich
+- Python 3.10+
+- lick
+- requests
+- unittest
+- rich
 
