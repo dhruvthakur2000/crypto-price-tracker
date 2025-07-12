@@ -32,7 +32,8 @@ python cli_entry.py --crypto bitcoin --output file --file bitcoin.json
 
 #Run testspython -m unittest discover tests
 python -m unittest discover tests
-
+```
+---
 
 ## Built With
 
